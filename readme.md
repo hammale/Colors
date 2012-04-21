@@ -1,5 +1,5 @@
 <p>=== License ===</p>
-<center>=== Tyzoid Public License (TPL) ===</center>
+-> === Tyzoid Public License (TPL) === <-
 
 <p>License:</p>
 <p>A worldwide, non-exclusive, royalty free license is granted to any person or legal entity ("you") obtaining a copy of this software and associated documentation files (the "Software"). This license applies both for commercial purposes and non-commercial purposes.</p>
